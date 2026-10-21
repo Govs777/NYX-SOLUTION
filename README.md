@@ -1,7 +1,7 @@
 # Nyx Solutions
 ## Arvo - Mapeamento e Análise de Eventos
 
-## 📌 Sobre o projeto
+## 💡 Sobre o projeto
 A **Nyx Solutions** é um projeto desenvolvido junto ao curso de Gestão da Tecnologia da Informação da FATEC Barueri, com foco em otimizar os recursos da **Arvo**, uma healthtech brasileira focada em soluções B2B e SaaS voltada para a validação e automação de auditorias de contas hospitalares.
 
 Atualmente, a Arvo possui um gargalo relacionado aos altos custos de participação em eventos nacionais e internacionais. Diante disso, o projeto propõe-se a analisar esse contexto e estruturar um mapeamento automatizado das próximas convenções, permitindo analisar de forma estruturada quais participações oferecem o melhor retorno para a empresa.
@@ -27,7 +27,7 @@ A análise dos eventos é rigorosamente estruturada considerando os objetivos de
 - **Custos:** levantamento completo dos gastos necessários para deslocamento, ingresso e estadia;
 - **Compensação:** análise de viabilidade e relação custo-benefício da participação.
 
-## 🔄 TO-BE
+## 📈 TO-BE
 Durante o desenvolvimento do projeto, o processo de análise foi estruturado nas seguintes etapas principais para garantir a entrega de valor ao cliente:
 
 ### 1️⃣ Levantamento dos eventos
@@ -42,7 +42,7 @@ Construção de uma solução automatizada para organizar as informações de ma
 ### 4️⃣ Avaliação da participação
 Cruzamento de dados entre os benefícios projetados e os custos levantados. Os dados processados são utilizados pela gestão para definir se o investimento (ROI) na participação compensa os gastos envolvidos.
 
-## 🚀 Resultados Esperados e Benefícios
+## 🏆 Resultados Esperados e Benefícios
 Ao final da implementação, espera-se entregar um mapeamento estruturado e automatizado, acompanhado de um dashboard ou descritivo detalhado das convenções.
 
 O projeto proporcionará à Arvo:
